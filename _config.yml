@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: melgineer's Blog
 description: A webpage
+
+author:
+  name: Michelle Lynch
+  email: your-email@domain.com
