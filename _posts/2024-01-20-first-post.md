@@ -30,4 +30,4 @@ A numbered list is created using a number + `.`, like:
 6. three
 2. four
 
-![My helpful screenshot](/docs/assets/images/Robin_260921_2.jpg)
+![My helpful screenshot](/docs/assets/Robin_260921_1200.jpg)
