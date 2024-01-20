@@ -1,7 +1,11 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+# Site settings
 title: melgineer's Blog
 description: A webpage
 
 author:
   name: Michelle Lynch
   email: your-email@domain.com
+
+# Build settings
+remote_theme: jekyll/minima
