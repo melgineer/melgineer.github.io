@@ -9,6 +9,3 @@ description: "A website."
 # Build settings
 theme: jekyll-theme-modernist
 #remote_theme: jekyll/minima
-
-base_url: /melgineer.github.io
-repository: melgineer/melgineer.github.io
