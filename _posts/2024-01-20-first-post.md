@@ -29,6 +29,3 @@ A numbered list is created using a number + `.`, like:
 2. two
 6. three
 2. four
-3. 
-
-![My helpful screenshot](/docs/assets/Robin_260921_1200.jpg)
