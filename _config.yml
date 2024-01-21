@@ -7,5 +7,5 @@ author:
 description: "A website."
 
 # Build settings
-theme: jekyll-theme-modernist
-#remote_theme: jekyll/minima
+#theme: jekyll-theme-modernist
+remote_theme: jekyll/minima
