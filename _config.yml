@@ -2,10 +2,13 @@
 title: melgineer's Blog
 
 author:
-  name: Michelle Lynch
+  name: Michelle Lynch xxx
   email: your-email@domain.com
 description: "A website."
 
 # Build settings
 theme: minima
 #remote_theme: jekyll/minima
+
+base_url: /melgineer.github.io
+repository: melgineer/melgineer.github.io
